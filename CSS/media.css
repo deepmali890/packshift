@@ -1,0 +1,127 @@
+@media only screen and (min-width:0px) and (max-width:575px){
+    .plan{
+        display: none;
+    }
+    .main {
+        max-width: 575px;
+    }
+    .right{
+        display: none;
+    }
+    nav .left{
+        margin: auto;
+    }
+    .banner{
+        height: auto;
+    }
+ .bannerinner{
+    flex-direction: column;
+ }
+ .leftbox{
+    text-align: center;
+    
+ }
+ .rightbox{
+    width: 90%;
+ }
+ .servicesbox{
+    justify-content: center;
+   
+    flex-direction: column;
+ }
+ .servicesbox2{
+    flex-direction: column;
+}
+.whysmallmainbox{
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    
+}
+.youtube{
+    justify-content: center;
+}
+/* .youtube iframe{
+    justify-content: center;
+} */
+.mrdilipmain{
+    width: 70%;
+  
+}
+.mrdilipmain .mrdilip{
+    width: 40%;
+    height: 45%;
+    left: 32%;
+    top: 0%;
+    font-size: 13px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.mrdilip h6{
+    margin:-3px 43px;
+}
+.mrdilipmain p {
+    width: 80%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    position: absolute;
+    top: 49%;
+    left: -8%;
+    font-size: 14px;
+}
+.mrdilipmain h6{
+  
+}
+.ACHIEVEMENTBOX{
+     display: none; 
+
+}
+.CLIENTSBOX{
+    display: none;
+}
+.branchinner{
+    flex-direction: column;
+}
+.branchinner1{
+    margin: 10px auto;
+    width: 90%;
+}
+.fotterinner{
+    flex-direction: column;
+}
+.fotterinner1{
+    margin: auto;
+    padding: 10px 0px;
+}
+.container{
+    width: 95%;
+}
+.downfooter{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    font-weight: bold;
+}
+.downfooter .downleft{
+    width: 50%;
+    padding: 15px 0px;
+    background-color: #035FAE;
+    color: white;
+}
+.downfooter .downright{
+    width: 50%;
+    padding: 15px 0px;
+    background-color: #FFCF40;
+    color: white;
+}
+.youtube{
+    flex-direction: column;
+}
+.youtube1 iframe{
+    width: 100%;
+}
+}
+ 
